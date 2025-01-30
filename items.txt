@@ -4,3 +4,4 @@ Table
 chair
 3 large screens
 wireless keyboard
+wireless mouse
