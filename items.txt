@@ -4,6 +4,6 @@ Table
 chair
 3 large screens
 wireless keyboard
-wireless mouse
+mouse
 headphones
 PS5
